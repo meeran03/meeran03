@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Meeran Malik</h1>
 <h3 align="center">A passionate code warrior from Lahore, Pakistan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meeran03" alt="meeran03" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/miran_speaks" target="blank"><img src="https://img.shields.io/twitter/follow/miran_speaks?logo=twitter&style=for-the-badge" alt="miran_speaks" /></a> </p>
 
