@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Meeran Malik</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%237115F7&center=true&lines=Hi%2C+👋+I+am+Meeran+Malik)](https://git.io/typing-svg)
 <h3 align="center">A passionate code warrior from Lahore, Pakistan</h3>
 
 
