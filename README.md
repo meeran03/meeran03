@@ -5,9 +5,13 @@
 
 <br />
 <br />
-Hi there, I'm <b>Meeran Malik</b>, 18 year old developer and a Computer Sciences Student 🚀  at <b>FAST NUCES</b>. I've been developing websites,mobile apps, and machine learning and experimenting with different technologies since I was 15 and honestly I love messing up with code and coming up with better solutions than the previous one.
+Hi there, I'm <b>Meeran Malik</b>, 18 year old developer hailing from Lahore. I've been developing and experimenting with different technologies since I was 15. Over the years I have worked as a Pythonista in Django and Sci-kit learn, made web apps with React, and developed mobile applications in flutter and react native. Currently, I am experimenting again with blockchain dapps.
 <br />
 
+<h3 align="left" >Education</h3>
+- I am currently a Computer Sciences Student 🚀  at <b>FAST NUCES</b>
+
+<br/>
 <h3 align="left">What Do I Do?</h3>
 
 - 🔭 I’m currently working on [doodhwaley](www.doodhwaley.com)
