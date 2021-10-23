@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%237115F7&center=true&lines=Hi%2C+👋+I+am+Meeran+Malik)](https://git.io/typing-svg)
 <h3 align="center">A passionate code warrior from Lahore, Pakistan</h3>
 
+[![Meeran Malik has a lot of ideas.](https://raw.githubusercontent.com/meeran03/meeran03/main/banner.png)]
+
 <br />
 <br />
 Hi there, I'm <b>Meeran Malik</b>, 18 year old developer and a Computer Sciences Student 🚀  at <b>FAST NUCES</b>. I've been developing websites,mobile apps, and machine learning and experimenting with different technologies since I was 15 and honestly I love messing up with code and coming up with better solutions than the previous one.
