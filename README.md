@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%237115F7&center=true&lines=Hi%2C+👋+I+am+Meeran+Malik)](https://git.io/typing-svg)
 <h3 align="center">A passionate code warrior from Lahore, Pakistan</h3>
 
-[![Meeran Malik has a lot of ideas.](https://raw.githubusercontent.com/meeran03/meeran03/main/banner.png)]
+[![Meeran Malik has a lot of ideas.](https://raw.githubusercontent.com/meeran03/meeran03/main/banner.png)
 
 <br />
 <br />
