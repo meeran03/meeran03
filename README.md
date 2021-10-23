@@ -31,8 +31,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meeran03&show_icons=true&locale=en&layout=compact" alt="meeran03" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meeran03&show_icons=true&locale=en&theme=radical" alt="meeran03" /></p>
+
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=meeran03&show_icons=true&locale=en&theme=radical" alt="meeran03" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meeran03&" alt="meeran03" /></p>
 
-<a href="https://app.daily.dev/meeran"><img src="https://api.daily.dev/devcards/fece194499334fb088f4ed22980433a5.png?r=b38" width="400" alt="Muhammad Meeran's Dev Card"/></a>
