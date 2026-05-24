@@ -1,32 +1,36 @@
-# Muhammad Meeran
+## Meeran
 
-I build production AI systems with a focus on voice agents, LLM workflows, backend infrastructure, and applied AI products.
+I build AI products and production systems around voice agents, LLM workflows, evals, and backend infrastructure.
 
-I care about the parts of AI that break after the demo: latency, reliability, observability, tool use, and real-world user behavior.
+Most of my work lives in the space between a cool AI demo and something that actually works with real users.
 
-## Currently
+### now
 
-I am building **[Kalbi.app](https://kalbi.app)**, a long-distance relationship app. It started as a personal project to stay connected with my girlfriend after moving from Texas to Virginia.
+I’m building [Kalbi.app](https://kalbi.app), a long-distance relationship app that started as a personal project after I moved from Texas to Virginia and wanted a better way to stay connected with my girlfriend.
 
-I am also building **[Burki.dev](https://burki.dev)**, a voice AI platform shaped by almost three years of experience building real-world phone agents. The goal is simple: plug-and-play voice AI with a transparent $0.03/minute platform fee and no hidden charges.
+I’m also building [Burki.dev](https://burki.dev), a voice AI platform built from almost three years of working on real-world phone agents. Simple idea: plug-and-play voice AI, transparent pricing, $0.03/min platform fee, no hidden charges.
 
-## Previously
+### before
 
-I helped build **[BiteBuddy.ai](https://bitebuddy.ai)**, an AI receptionist for restaurants that handled calls, reservations, orders, and customer support. I helped take it to around **$50k ARR** before leaving to focus on my next projects.
+I helped build [BiteBuddy.ai](https://bitebuddy.ai), an AI receptionist for restaurants that handled calls, reservations, orders, and customer support.
 
-## Research
+We grew it to around $50k ARR before I moved on to my next projects.
 
-At Texas Tech University, I worked with **Professor Akbar Namian** on AI alignment research focused on agent behavior, deceptive compliance, and alignment evaluation.
+### research
 
-## Focus
+At Texas Tech University, I worked with Professor Akbar Namian on AI alignment research around agent behavior, deceptive compliance, and alignment evaluation.
 
-I am interested in building AI systems that are useful beyond demos: real-time voice agents, agent evaluation, LLM orchestration, RAG, observability, and backend reliability.
+That work made me more interested in how AI systems behave when they have goals, tools, policies, and room to act.
 
-## Tech
+### mostly thinking about
 
-Python, TypeScript, FastAPI, Postgres, Redis, AWS, Docker, WebSockets, Twilio, Deepgram, OpenAI, Anthropic, and pgvector.
+Voice agents. Evals. Observability. LLM workflows. Backend reliability. AI systems that survive production.
 
-## Contact
+### stack
 
-Website: [meeran.dev](https://meeran.dev)  
-Email: [muhammadmeeran2003@gmail.com](mailto:muhammadmeeran2003@gmail.com)
+Python, TypeScript, FastAPI, Postgres, Redis, AWS, Docker, WebSockets, Twilio, Deepgram, OpenAI, Anthropic, pgvector.
+
+### reach me
+
+[meeran.dev](https://meeran.dev)  
+[muhammadmeeran2003@gmail.com](mailto:muhammadmeeran2003@gmail.com)
