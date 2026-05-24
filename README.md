@@ -1,4 +1,4 @@
-# Muhammad Meeran
+# meeran
 
 I build AI products that sit close to the real world: voice agents, LLM workflows, evals, and backend systems.
 
