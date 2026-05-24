@@ -1,34 +1,32 @@
-## Meeran
+# Muhammad Meeran
 
-I build AI products and production systems around voice agents, LLM workflows, evals, and backend infrastructure.
+I build AI products that sit close to the real world: voice agents, LLM workflows, evals, and backend systems.
 
 Most of my work lives in the space between a cool AI demo and something that actually works with real users.
 
 ### now
 
-I’m building [Kalbi.app](https://kalbi.app), a long-distance relationship app that started as a personal project after I moved from Texas to Virginia and wanted a better way to stay connected with my girlfriend.
+I’m building [Kalbi.app](https://kalbi.app), a long-distance relationship app that started after I moved from Texas to Virginia and realized long-distance often becomes passive instead of intentional.
 
-I’m also building [Burki.dev](https://burki.dev), a voice AI platform built from almost three years of working on real-world phone agents. Simple idea: plug-and-play voice AI, transparent pricing, $0.03/min platform fee, no hidden charges.
+I’m also building [Burki.dev](https://burki.dev), a voice AI platform shaped by almost three years of building real-world phone agents. The goal is simple: make production phone agents easier to build, test, and deploy with transparent pricing and no hidden usage mess.
 
 ### before
 
 I helped build [BiteBuddy.ai](https://bitebuddy.ai), an AI receptionist for restaurants that handled calls, reservations, orders, and customer support.
 
-We grew it to around $50k ARR before I moved on to my next projects.
+We grew it to roughly $50k ARR before I moved on to my next projects.
 
 ### research
 
-At Texas Tech University, I worked with Professor Akbar Namian on AI alignment research around agent behavior, deceptive compliance, and alignment evaluation.
+At Texas Tech University, I worked with Professor Akbar Namian on AI alignment research around agent behavior, vague policy following, and deceptive policy behavior in AI tool-calling systems.
 
-That work made me more interested in how AI systems behave when they have goals, tools, policies, and room to act.
+The core question was simple: when an AI system is given a policy, tools, and room to act, how do we know it is actually following the policy instead of only appearing to?
 
-### mostly thinking about
+### lately
 
-Voice agents. Evals. Observability. LLM workflows. Backend reliability. AI systems that survive production.
+I keep coming back to voice agents, evals, observability, tool use, RAG, backend reliability, and AI systems that survive production.
 
-### stack
-
-Python, TypeScript, FastAPI, Postgres, Redis, AWS, Docker, WebSockets, Twilio, Deepgram, OpenAI, Anthropic, pgvector.
+My stack is mostly Python, TypeScript, FastAPI, Postgres, Redis, AWS, Docker, WebSockets, Twilio, Deepgram, OpenAI, Anthropic, and pgvector.
 
 ### reach me
 
