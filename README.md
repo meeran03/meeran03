@@ -1,35 +1,33 @@
+<div align="center">
+
 # Muhammad Meeran
 
-I build production AI systems with a focus on voice agents, LLM workflows, agent infrastructure, evals, and backend reliability.
+### Applied AI engineer building voice agents, evals, and production LLM systems.
 
-I care about the parts of AI that usually break after the demo: latency, observability, tool use, failure modes, and real-world user behavior.
+I care about the parts of AI that break after the demo:  
+**latency, observability, tool use, failure modes, and real-world user behavior.**
+
+[Website](https://meeran.dev) · [Burki.dev](https://burki.dev) · [Kalbi.app](https://kalbi.app) · [Email](mailto:muhammadmeeran2003@gmail.com)
+
+</div>
+
+---
+
+## Current Work
+
+| Area | What I’m Building |
+|---|---|
+| **Burki.dev** | Voice AI infrastructure for production phone agents |
+| **Kalbi.app** | Applied AI product currently being commercialized |
+| **AI Alignment Research** | Research at Texas Tech University with Professor Akbar Namian on agent behavior, deceptive compliance, and alignment evaluation |
+
+---
 
 ## Focus
 
-- Real-time voice AI
-- LLM orchestration and tool use
-- Agent evaluation systems
-- AI observability and debugging
-- RAG and hybrid search
-- Backend infrastructure
-
-## Current direction
-
-I’m working toward stronger systems for evaluating, tracing, and improving AI agents in production.
-
-## Tech
-
-Python, TypeScript, FastAPI, Postgres, Redis, AWS, Docker, WebSockets, Twilio, Deepgram, OpenAI, Anthropic, pgvector.
-
-## Principles
-
-- Evals before confidence.
-- Observability before scale.
-- Latency is a product feature.
-- Demos are easy. Production is the test.
-
-## Contact
-
-Website: https://meeran.dev  
-Email: muhammadmeeran2003@gmail.com  
-X: @miran_speaks
+```txt
+Real-time voice AI        Agent evaluation systems
+LLM orchestration         AI observability
+Tool use                  RAG and hybrid search
+Backend reliability       Production AI systems
+```
