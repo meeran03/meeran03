@@ -1,34 +1,41 @@
-# meeran
+# Muhammad Meeran
 
-I build AI products that sit close to the real world: voice agents, LLM workflows, evals, and backend systems.
+**Senior Platform Engineer at PAM AI · Founder of Burki · Co-founder & former CTO of BiteBuddy**
 
-Most of my work lives in the space between a cool AI demo and something that actually works with real users.
+I build voice AI infrastructure and products people actually use: from conversation orchestration and telephony to the app, the backend, and the customer deployment.
 
-### now
+[Explore my work](https://meeran.dev) · [Résumé](https://meeran.dev/resume.pdf) · [LinkedIn](https://www.linkedin.com/in/meeran-malik-34431316b/) · [Email](mailto:muhammadmeeran2003@gmail.com)
 
-I’m building [Kalbi.app](https://kalbi.app), a long-distance relationship app that started after I moved from Texas to Virginia and realized long-distance often becomes passive instead of intentional.
+## Production work
 
-I’m also building [Burki.dev](https://burki.dev), a voice AI platform shaped by almost three years of building real-world phone agents. The goal is simple: make production phone agents easier to build, test, and deploy with transparent pricing and no hidden usage mess.
+| Work | My ownership | Outcome / current stage |
+| --- | --- | --- |
+| **[PAM AI](https://meeran.dev/pam)** | Senior Platform Engineer. In-house voice orchestration, conversation controls, provider routing, SIP, transfers, and failure recovery. | Systems handling **50,000+ calls/day**; approximately **$100k/month estimated vendor-cost savings**. |
+| **[BiteBuddy](https://meeran.dev/bitebuddy)** | Co-founder & CTO, Dec 2024–May 2026. Personally built the core voice, SMS, and web ordering product, backend, menu ingestion, and restaurant deployments. | **300,000 production calls**, **10 restaurant deployments**, approximately **$50k ARR**. Recruited a five-engineer team. |
+| **[Burki](https://meeran.dev/burki)** | Founder & engineer. A weekend replacement for a voice provider grew into a reusable phone-agent platform. | **5 agency customers in week one**; a white-label UAE deployment handling approximately **20,000 calls/day**. |
 
-### before
+These are product and deployment outcomes; the public examples below are separate, self-contained demonstrations. Commercial and employer implementations remain private.
 
-I helped build [BiteBuddy.ai](https://bitebuddy.ai), an AI receptionist for restaurants that handled calls, reservations, orders, and customer support.
+## Products I built end to end
 
-We grew it to roughly $50k ARR before I moved on to my next projects.
+- **[Brimigo](https://meeran.dev/brimigo)** — pet discovery, mutual matching, real-time chat, and meetups. React Native / Expo, Supabase, PostgreSQL, and PostGIS, including approximate-location privacy and row-level access controls. Delivered through Apple App Store review.
+- **[Kalbi](https://meeran.dev/kalbi)** — a private shared space for everyday moments, pings, countdowns, widgets, and small rituals. Currently in private beta.
 
-### research
+## Engineering you can inspect
 
-At Texas Tech University, I worked with Professor Akbar Namian on AI alignment research around agent behavior, vague policy following, and deceptive policy behavior in AI tool-calling systems.
+- **[Voice Session Lab](https://github.com/meeran03/voice-session-lab)** — synthetic conversation sessions for examining provider failover, interruption, tool idempotency, and transfer recovery. Executable scenarios, event traces, and tests.
+- **[Agent Trace Evals](https://github.com/meeran03/agent-trace-evals)** — evaluate an agent's tool actions against explicit policies, with evidence attached to each finding. Synthetic fixtures and reproducible reports.
+- **[Streaming + function calling in FastAPI](https://github.com/meeran03/streaming_with_function_calling_fastapi)** — an API example for streamed model output and validated tool execution.
+- **[Hybrid search with PostgreSQL](https://github.com/meeran03/hybrid_search_with_postgres)** — vector retrieval, full-text search, and reciprocal-rank fusion.
+- **[RL Bandits](https://github.com/meeran03/rl-bandits)** — reproducible experiments with ε-greedy, UCB, and gradient bandits, including tests and comparison plots.
+- **[Burki documentation](https://github.com/meeran03/mintlify-docs)** — public integration and architecture documentation for the voice platform.
 
-The core question was simple: when an AI system is given a policy, tools, and room to act, how do we know it is actually following the policy instead of only appearing to?
+## Research and background
 
-### lately
+I completed my **M.S. in Computer Science at Texas Tech University in May 2026**, working with Professor Akbar Namian on policy following and deceptive behavior in AI tool-calling systems. I focus on what an agent actually does, including the actions hidden behind a plausible final answer.
 
-I keep coming back to voice agents, evals, observability, tool use, RAG, backend reliability, and AI systems that survive production.
+Previously: engineering and team leadership at SHARE Mobility, and founding-engineer work at Doodhwala.
 
-My stack is mostly Python, TypeScript, FastAPI, Postgres, Redis, AWS, Docker, WebSockets, Twilio, Deepgram, OpenAI, Anthropic, and pgvector.
+**Core tools:** Python, TypeScript, FastAPI, PostgreSQL, Redis, AWS, Docker, WebSockets, SIP, and React Native. My recurring interests are conversation lifecycle, failure recovery, evaluations, observability, and shipping the whole product.
 
-### reach me
-
-[meeran.dev](https://meeran.dev)  
-[muhammadmeeran2003@gmail.com](mailto:muhammadmeeran2003@gmail.com)
+Based in Northern Virginia / Washington, DC.
