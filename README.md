@@ -24,6 +24,7 @@ These are product and deployment outcomes; the public examples below are separat
 ## Engineering you can inspect
 
 - **[Voice Session Lab](https://github.com/meeran03/voice-session-lab)** — synthetic conversation sessions for examining provider failover, interruption, tool idempotency, and transfer recovery. Executable scenarios, event traces, and tests.
+- **[TrajectoryShield](https://github.com/meeran03/trajectoryshield)** — AI safety research on policy violations across agent tool sequences. Effect tracking, 300 authored fixtures, reproducible evaluation, and an honest audit of the evaluation limits. **[Explore the interactive trace demo](https://meeran03.github.io/trajectoryshield/)**.
 - **[Agent Trace Evals](https://github.com/meeran03/agent-trace-evals)** — evaluate an agent's tool actions against explicit policies, with evidence attached to each finding. Synthetic fixtures and reproducible reports.
 - **[Streaming + function calling in FastAPI](https://github.com/meeran03/streaming_with_function_calling_fastapi)** — an API example for streamed model output and validated tool execution.
 - **[Hybrid search with PostgreSQL](https://github.com/meeran03/hybrid_search_with_postgres)** — vector retrieval, full-text search, and reciprocal-rank fusion.
@@ -33,6 +34,8 @@ These are product and deployment outcomes; the public examples below are separat
 ## Research and background
 
 I completed my **M.S. in Computer Science at Texas Tech University in May 2026**, working with Professor Akbar Namian on policy following and deceptive behavior in AI tool-calling systems. I focus on what an agent actually does, including the actions hidden behind a plausible final answer.
+
+The [TrajectoryShield research brief](https://github.com/meeran03/trajectoryshield/blob/main/docs/research-brief.md) explains the approach, findings, and limitations. Code and reproducible examples are public; the paper has not been released.
 
 Previously: engineering and team leadership at SHARE Mobility, and founding-engineer work at Doodhwala.
 
