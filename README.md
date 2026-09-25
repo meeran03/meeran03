@@ -23,6 +23,8 @@ These are product and deployment outcomes; the public examples below are separat
 
 ## Engineering you can inspect
 
+- **[GaariGar](https://github.com/meeran03/gaarigar)** — **first place in my sixth-semester Software Design and Analysis class**. A Java/Spring Boot roadside-assistance platform with Android clients and web administration. Inspect layered architecture, notification-handler interfaces, a payment-gateway abstraction, and reusable query specifications. **[Design walkthrough](https://github.com/meeran03/gaarigar/blob/main/docs/software-design.md)** · **[Live sample](https://backend-production-17213.up.railway.app)**.
+
 - **[Voice Session Lab](https://github.com/meeran03/voice-session-lab)** — synthetic conversation sessions for examining provider failover, interruption, tool idempotency, and transfer recovery. Executable scenarios, event traces, and tests.
 - **[TrajectoryShield](https://github.com/meeran03/trajectoryshield)** — AI safety research on policy violations across agent tool sequences. Effect tracking, 300 authored fixtures, reproducible evaluation, and an honest audit of the evaluation limits. **[Explore the interactive trace demo](https://meeran03.github.io/trajectoryshield/)**.
 - **[Agent Trace Evals](https://github.com/meeran03/agent-trace-evals)** — evaluate an agent's tool actions against explicit policies, with evidence attached to each finding. Synthetic fixtures and reproducible reports.
