@@ -11,7 +11,7 @@ I build voice AI infrastructure and products people actually use: from conversat
 | Work | My ownership | Outcome / current stage |
 | --- | --- | --- |
 | **[PAM AI](https://meeran.dev/pam)** | Senior Platform Engineer. In-house voice orchestration, conversation controls, provider routing, SIP, transfers, and failure recovery. | Systems handling **50,000+ calls/day**; approximately **$100k/month estimated vendor-cost savings**. |
-| **[BiteBuddy](https://meeran.dev/bitebuddy)** | Co-founder & CTO, Dec 2024–May 2026. Personally built the core voice, SMS, and web ordering product, backend, menu ingestion, and restaurant deployments. | **300,000 production calls**, **10 restaurant deployments**, approximately **$50k ARR**. Recruited a five-engineer team. |
+| **[BiteBuddy](https://meeran.dev/bitebuddy)** | Co-founder & CTO, Dec 2024–May 2026. Personally built the core voice, SMS, and web ordering product, backend, menu ingestion, and restaurant deployments. | **300,000 production calls**, **10 restaurant deployments**, **$100k ARR**. Recruited a five-engineer team. |
 | **[Burki](https://meeran.dev/burki)** | Founder & engineer. A weekend replacement for a voice provider grew into a reusable phone-agent platform. | **5 agency customers in week one**; a white-label UAE deployment handling approximately **20,000 calls/day**. |
 
 These are product and deployment outcomes; the public examples below are separate, self-contained demonstrations. Commercial and employer implementations remain private.
